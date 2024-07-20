@@ -13,10 +13,9 @@ This project is a React front-end web application built using Next.js. It shows 
 
 ## Installation
 
-1. Copy repository:
 
-`bash
-git clone https://github.com/your-username/top-n-products-web-app.git
+
+
 
 2. Enter the project directory:
 
