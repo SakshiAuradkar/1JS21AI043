@@ -1,0 +1,2 @@
+WINDOW_SIZE = 10
+TIMEOUT = 0.5  # 500 ms
